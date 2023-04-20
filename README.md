@@ -1,2 +1,3 @@
 # randomizer-
-easy proh
+easy prog
+for random number
