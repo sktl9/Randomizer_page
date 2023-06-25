@@ -1,3 +1,3 @@
 # randomizer
 easy prog
-for random number
+for random number.
