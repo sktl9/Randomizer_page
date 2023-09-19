@@ -1,3 +1,3 @@
 # randomizer
 Easy prog
-For Rando
+For Rand
